@@ -9,6 +9,12 @@ const members = [
     name: 'Marios Stefanidis',
     icon: 'M',
   },
+  {
+    id: 'themis',
+    url: 'https://themis-sar.github.io/jekyll-cv/',
+    name: 'Themistoklis Sarantakos',
+    icon: 'T',
+  }
   // Προσθέστε νέα μέλη εδώ:
   // { id: 'maria', url: 'https://maria.github.io/cv', name: 'Μαρία Κ.', icon: 'Μ' }
 ];
