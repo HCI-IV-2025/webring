@@ -14,7 +14,14 @@ const members = [
     url: 'https://themis-sar.github.io/jekyll-cv/',
     name: 'Themistoklis Sarantakos',
     icon: 'T',
-  }
+  },
+  {
+  id: 'eleni',
+  url: 'https://EleniFot.github.io/my--resume/',
+  name: 'Eleni Fotopoulou',
+  icon: 'EF'
+},
+
   // Προσθέστε νέα μέλη εδώ:
   // { id: 'maria', url: 'https://maria.github.io/cv', name: 'Μαρία Κ.', icon: 'Μ' }
 ];
