@@ -14,7 +14,13 @@ const members = [
     url: 'https://themis-sar.github.io/jekyll-cv/',
     name: 'Themistoklis Sarantakos',
     icon: 'T',
-  }
+  },
+  {
+    id: 'panagiotis',
+    url: 'https://panamilo.github.io/8bit_portfolio/',
+    name: 'Panagiotis Milopoulos',
+    icon: 'P',
+  },
   // Προσθέστε νέα μέλη εδώ:
   // { id: 'maria', url: 'https://maria.github.io/cv', name: 'Μαρία Κ.', icon: 'Μ' }
 ];
