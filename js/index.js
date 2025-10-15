@@ -19,7 +19,7 @@ const members = [
   id: 'eleni',
   url: 'https://EleniFot.github.io/my--resume/',
   name: 'Eleni Fotopoulou',
-  icon: 'EF'
+  icon: 'E'
 },
 
   // Προσθέστε νέα μέλη εδώ:
