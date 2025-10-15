@@ -17,7 +17,7 @@ const members = [
   },
   {
   id: 'eleni',
-  url: 'https://EleniFot.github.io/my--resume/',
+  url: 'https://elenifot.github.io/My-CV/',
   name: 'Eleni Fotopoulou',
   icon: 'E'
 },
