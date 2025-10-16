@@ -21,6 +21,18 @@ const members = [
     name: 'Panagiotis Milopoulos',
     icon: 'P',
   },
+    id: 'eleni',
+    url: 'https://elenifot.github.io/My-CV/',
+    name: 'Eleni Fotopoulou',
+    icon: 'E'
+  },
+  {
+    id: 'emmanouela',
+    url: 'https://kayieni.github.io/',
+    name: 'Emmanouela Vagianou',
+    icon: 'EV'
+  },
+
   // Προσθέστε νέα μέλη εδώ:
   // { id: 'maria', url: 'https://maria.github.io/cv', name: 'Μαρία Κ.', icon: 'Μ' }
 ];
