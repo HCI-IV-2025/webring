@@ -33,7 +33,12 @@ const members = [
     name: 'Emmanouela Vagianou',
     icon: 'EV',
   },
-
+  {
+    id: 'karlgzafiris',
+    url: 'https://karlgzafiris.github.io/',
+    name: 'George Karl Zafiris',
+    icon: 'kgz'
+  }
   // Προσθέστε νέα μέλη εδώ:
   // { id: 'maria', url: 'https://maria.github.io/cv', name: 'Μαρία Κ.', icon: 'Μ' }
 ];
