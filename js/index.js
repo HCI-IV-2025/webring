@@ -16,6 +16,11 @@ const members = [
     icon: 'T',
   },
   {
+    id: 'panagiotis',
+    url: 'https://panamilo.github.io/8bit_portfolio/',
+    name: 'Panagiotis Milopoulos',
+    icon: 'P',
+  },
     id: 'eleni',
     url: 'https://elenifot.github.io/My-CV/',
     name: 'Eleni Fotopoulou',
