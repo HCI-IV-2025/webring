@@ -36,7 +36,7 @@ const members = [
   {
     id: 'karlgzafiris',
     url: 'https://karlgzafiris.github.io/',
-    name: 'Karl Zafiris',
+    name: 'George Karl Zafiris',
     icon: 'kgz'
   }
   // Προσθέστε νέα μέλη εδώ:
