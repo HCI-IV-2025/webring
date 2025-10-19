@@ -33,6 +33,12 @@ const members = [
     name: 'Emmanouela Vagianou',
     icon: 'EV',
   },
+  {
+    id: 'panagiotis2',
+    url: 'https://pansarz.github.io/p.s-online-resume/',
+    name: 'Panagiotis Sarigiannis',
+    icon: 'PS',
+  },
 
   // Προσθέστε νέα μέλη εδώ:
   // { id: 'maria', url: 'https://maria.github.io/cv', name: 'Μαρία Κ.', icon: 'Μ' }
