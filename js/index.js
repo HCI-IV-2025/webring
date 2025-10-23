@@ -39,7 +39,12 @@ const members = [
     name: 'Panagiotis Sarigiannis',
     icon: 'PS',
   },
-
+  {
+    id: 'foteini',
+    url: 'https://fotiniyp.github.io/my-cv/',
+    name: 'Foteini Ypsilanti',
+    icon: 'F',
+  },
   // Προσθέστε νέα μέλη εδώ:
   // { id: 'maria', url: 'https://maria.github.io/cv', name: 'Μαρία Κ.', icon: 'Μ' }
 ];
